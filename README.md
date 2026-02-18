@@ -1,1 +1,1 @@
-# merge-conflict-demo
+# AI Conflict Feature 2
